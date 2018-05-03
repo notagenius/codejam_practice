@@ -39,7 +39,7 @@ class LineOff:
 '''
 
 '''
-Way: Don't Pop in for without Break
+#Way: Don't Pop in for without Break
 import math,string,itertools,fractions,heapq,collections,re,array,bisect,random
 
 class LineOff:
